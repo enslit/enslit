@@ -23,6 +23,7 @@
 - Посещаю митапы, конференции
 
 **Статистика:**
+
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px;">
     <a href="#" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=enslit&count_private=true&show_icons=true&theme=dark&include_all_commits=true&custom_title=Моя+статистика+на+GitHub&locale=ru&hide=issues,stars" alt="Статистика активности на github.com"/>
