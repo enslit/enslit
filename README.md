@@ -4,15 +4,17 @@
 
 **Мой текущий стек:**
 
-<img src="https://img.icons8.com/color/36/000000/html-5--v1.png" alt="HTML"/>
-<img src="https://img.icons8.com/color/36/000000/css3.png" alt="CSS3"/>
-<img src="https://img.icons8.com/color/36/000000/pug.png" alt="PUG"/>
-<img src="https://img.icons8.com/color/36/000000/sass.png" alt="SASS"/>
-<img src="https://img.icons8.com/color/36/000000/javascript.png" alt="Javascript"/>
-<img src="https://img.icons8.com/dusk/36/000000/webpack.png" alt="Webpack"/>
-<img src="https://img.icons8.com/windows/36/000000/gulp.png" alt="Gulp"/>
-<img src="https://img.icons8.com/plasticine/36/000000/react.png" alt="React js"/>
-<img src="https://img.icons8.com/color/36/000000/redux.png" alt="Redux"/>
+<div style="display: flex; flex-wrap: wrap; align-items: center">
+    <img src="https://img.icons8.com/color/36/000000/html-5--v1.png" alt="HTML"/>
+    <img src="https://img.icons8.com/color/36/000000/css3.png" alt="CSS3"/>
+    <img src="https://img.icons8.com/color/36/000000/pug.png" alt="PUG"/>
+    <img src="https://img.icons8.com/color/36/000000/sass.png" alt="SASS"/>
+    <img src="https://img.icons8.com/color/36/000000/javascript.png" alt="Javascript"/>
+    <img src="https://img.icons8.com/dusk/36/000000/webpack.png" alt="Webpack"/>
+    <img src="https://img.icons8.com/windows/36/000000/gulp.png" alt="Gulp"/>
+    <img src="https://img.icons8.com/plasticine/36/000000/react.png" alt="React js"/>
+    <img src="https://img.icons8.com/color/36/000000/redux.png" alt="Redux"/>
+</div>
 
 **Мои активности:**
 
